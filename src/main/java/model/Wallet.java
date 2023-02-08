@@ -3,5 +3,5 @@ package model;
 public class Wallet {
 
 
-    String name;
+    String name = "skljdf";
 }
